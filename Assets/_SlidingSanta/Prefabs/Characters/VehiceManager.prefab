@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &120622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 492764}
+  - 114: {fileID: 11402428}
+  m_Layer: 0
+  m_Name: VehiceManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &492764
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120622}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11402428
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e58101bdb036ca47995605188298be7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vehicles:
+  - {fileID: 196728, guid: b5e9f169cff47014193fd654a85ac63c, type: 2}
+  - {fileID: 189412, guid: a863c378eb0be424f94a229f5d844d63, type: 2}
+  - {fileID: 136044, guid: 29a192efd3530ea439b6af91a36b7d27, type: 2}
+  - {fileID: 191534, guid: 91d93d9dbf49ebb4a846ade8abe483b0, type: 2}
+  - {fileID: 101874, guid: 7962b1c3781cd4d44b73a627da443a23, type: 2}
+  - {fileID: 132532, guid: f8fbd7d8d387d7c408466fa528cc9017, type: 2}
+  - {fileID: 182208, guid: f1bed7c5228f6b945982ca068b68f532, type: 2}
+  - {fileID: 147910, guid: bafea7bbf0b44f748a39c1bfd3120a75, type: 2}
+  - {fileID: 194958, guid: e8f761725079b534db28d8a41fc2f79f, type: 2}
+  - {fileID: 183134, guid: 156fd80ca62d08548bffbbe59b1ed43c, type: 2}
+  - {fileID: 115412, guid: c16ef3f446228cc499a35b7ac1a83e8a, type: 2}
+  - {fileID: 122090, guid: 6c2cd61348c826d4ebf1ca01368a0253, type: 2}
+  - {fileID: 173364, guid: 11ed94b203072ee40a52750e26f02a46, type: 2}
+  - {fileID: 157244, guid: 9026fc98de7e5524e854ac75fd9213cb, type: 2}
+  - {fileID: 149118, guid: de0c162f63d81b742b23da82067637a6, type: 2}
+  - {fileID: 124466, guid: 5b943e76b542cf140b4e0e2868a12b2a, type: 2}
+  - {fileID: 193168, guid: 1b56082bfd51de5438b324b235b854ca, type: 2}
+  - {fileID: 130276, guid: 1c8553042792f3846ab3f918e0958baa, type: 2}
+  - {fileID: 155976, guid: 7c40ed45d1e9ce7438c6b1a5f08baf34, type: 2}
+  - {fileID: 198266, guid: 66ef831cf4aa9524f9fbe7fe24ec5623, type: 2}
+  - {fileID: 122418, guid: a0f34e2fdc49b63469938264fc5e87d4, type: 2}
+  - {fileID: 138436, guid: 84130e3856f7fe74b92571efefee591e, type: 2}
+  - {fileID: 132150, guid: ae4d3024aab6611408e156ed7c51140e, type: 2}
+  - {fileID: 182090, guid: efe05400d60d82d43bddd8ee7e831f1a, type: 2}
+  - {fileID: 105204, guid: cf93097e00a0c754c950d52658f99837, type: 2}
+  - {fileID: 144872, guid: e920fa0c64a3fdc47922149fbb8f7a5b, type: 2}
+  - {fileID: 102040, guid: 7b72591371b18d94fa72045dfd7d7a99, type: 2}
+  - {fileID: 178476, guid: 0c6f85a53a74da34ebe00fa163c86899, type: 2}
+  - {fileID: 134130, guid: b4c4dfdf4310e7941af4850ac94b7a83, type: 2}
+  - {fileID: 138124, guid: 2ebf6c05353e07442bc45f0ea20509a5, type: 2}
+  - {fileID: 148232, guid: 6bc17eac4caa3d741b9076134ab096ce, type: 2}
+  - {fileID: 128626, guid: ea0e7913e0e9eb44eb5a0875c56ceec6, type: 2}
+  - {fileID: 139200, guid: ac14239ed2aaa574abaa80f8c471444f, type: 2}
+  - {fileID: 198710, guid: 9a8b6476c996b754c9b3054d84308432, type: 2}
+  - {fileID: 133004, guid: b219e74d71b5b9742abb3261d2330dda, type: 2}
+  - {fileID: 100878, guid: 5099d28da6603644f9c7e921738c0ba7, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 120622}
+  m_IsPrefabParent: 1

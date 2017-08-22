@@ -1,0 +1,49 @@
+fileFormatVersion: 2
+guid: 2ccc2bc41d94f4bf7be9f7a9933e436b
+labels:
+- Unity5
+- uGUI
+- ScaleRatio
+- 1:1
+- scaled
+- interface
+- snapshot
+- overview
+- png
+- export
+- Screencap
+- screenshot
+- size
+- physical
+- Screen
+- Anchor
+- Atlas
+- Perfect
+- Pixel
+- Densitiy
+- Resolution
+- Format
+- PPI
+- DPI
+- Multilingual
+- Translation
+- Crossplatform
+- Multiplatform
+- Platform
+- SaveArea
+- Scale
+- GUI
+- UI
+- Diagonal
+- Fragmentation
+- Display
+- Gallery
+- Preview
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

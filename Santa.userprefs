@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_SlidingSanta\Scripts\Bullet.cs">
+    <Files>
+      <File FileName="Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SlidingSanta\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SlidingSanta\Scripts\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Dialogue System\Scripts\Supplemental\Utility\Usable.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SlidingSanta\Scripts\StroyUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SlidingSanta\Scripts\Bullet.cs" Line="49" Column="32" />
+      <File FileName="Assets\_SlidingSanta\Scripts\PlayerController.cs" Line="315" Column="7" />
+      <File FileName="Assets\_SlidingSanta\Scripts\PlayerView.cs" Line="23" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
